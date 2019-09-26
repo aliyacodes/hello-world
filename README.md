@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+Hi I'm Aliya, I'm in the BAS program and I'm stoked.
+
+the end.
